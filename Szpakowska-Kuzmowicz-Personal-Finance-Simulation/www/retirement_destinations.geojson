@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.5,
+              13.5
+            ],
+            [
+              101.0,
+              13.5
+            ],
+            [
+              101.0,
+              14.0
+            ],
+            [
+              100.5,
+              14.0
+            ],
+            [
+              100.5,
+              13.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.3,
+              38.7
+            ],
+            [
+              -8.9,
+              38.7
+            ],
+            [
+              -8.9,
+              39.0
+            ],
+            [
+              -9.3,
+              39.0
+            ],
+            [
+              -9.3,
+              38.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spain",
+        "code": "ES"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.0,
+              40.0
+            ],
+            [
+              -3.0,
+              40.0
+            ],
+            [
+              -3.0,
+              41.0
+            ],
+            [
+              -4.0,
+              41.0
+            ],
+            [
+              -4.0,
+              40.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.0,
+              23.0
+            ],
+            [
+              -101.0,
+              23.0
+            ],
+            [
+              -101.0,
+              24.0
+            ],
+            [
+              -102.0,
+              24.0
+            ],
+            [
+              -102.0,
+              23.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japan",
+        "code": "JP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.0,
+              36.0
+            ],
+            [
+              139.0,
+              36.0
+            ],
+            [
+              139.0,
+              37.0
+            ],
+            [
+              138.0,
+              37.0
+            ],
+            [
+              138.0,
+              36.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.0,
+              46.5
+            ],
+            [
+              8.0,
+              46.5
+            ],
+            [
+              8.0,
+              47.0
+            ],
+            [
+              7.0,
+              47.0
+            ],
+            [
+              7.0,
+              46.5
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
